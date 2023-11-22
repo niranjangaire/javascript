@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <input id="inputID" type="text" placeholder="username">
+
+    <button onclick="run()">Login</button>
+
+    <p id="first"></p> <br><br>
+
+    <center>
+        <textarea id="textareaid" rows="5">  </textarea> <br>
+        <button onclick ="another()"> post your comment</button>
+    </center>
+  
+<p id="paragraph" style="text-align:center;">  Enter your feedback    </p>
+<p id="second">           This is a sample paragraph   </p>
+
+
+ 
+  <script src = "script.js"> </script>
+
+</body>
+
+</html>
